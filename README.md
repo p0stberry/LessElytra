@@ -3,7 +3,8 @@ Minecraft plugin to disable elytra
 
 Player can hold and wear an elytra, but gliding erases their elytra.
 # Usage
-/elytra [username]
+To actually allow players to use elytra, the player must be online.
+> /elytra [username]
 
 All whitelisted player's names are stored inside of a config.yml.
 
