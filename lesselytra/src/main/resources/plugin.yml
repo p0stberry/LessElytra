@@ -1,0 +1,9 @@
+name: Lesselytra
+version: ${project.version}
+main: nsmp.lesselytra.Main
+api-version: 1.18
+authors: [ p0stberrytea ]
+commands:
+  elytra:
+    description: Hot wings!
+    default: op
