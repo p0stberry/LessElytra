@@ -10,9 +10,10 @@ All whitelisted player's names are stored inside of a config.yml.
 
 # config.yml
 ```
-warning: §cВы не можете использовать элитры
-info-on: теперь может использовать элитры
-info-off: теперь может использовать элитры
+warning: §cYou cannot use an elytra
+info-on: now can't use an elytra
+info-off: now can use an elytra
 players:
   - Notch
+  - aoimaterasu
 ```
